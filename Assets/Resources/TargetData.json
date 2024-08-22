@@ -1,7 +1,7 @@
 {
 	"TargetList": [
 		{
-			"Name": "CoffeeMachine",
+			"Name": "Room-1",
 			"FloorNumber": 0,
 			"Position": {
 				"x": -4.49,
@@ -29,7 +29,7 @@
 			}
 		},
 		{
-			"Name": "BedRoom",
+			"Name": "Room-2",
 			"FloorNumber": 0,
 			"Position": {
 				"x": -1.01,
@@ -43,7 +43,7 @@
 			}
 		},
 		{
-			"Name": "Kitchen",
+			"Name": "Room-3",
 			"FloorNumber": 0,
 			"Position": {
 				"x": -6.57,
@@ -71,7 +71,7 @@
 			}
 		},
 		{
-			"Name": "LivingRoom",
+			"Name": "Room-4",
 			"FloorNumber": 0,
 			"Position": {
 				"x": 0.00,
@@ -85,7 +85,7 @@
 			}
 		},
 		{
-			"Name": "ExtraRoom",
+			"Name": "Room-5",
 			"FloorNumber": 1,
 			"Position": {
 				"x": -5.68,
